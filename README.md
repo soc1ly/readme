@@ -11,7 +11,7 @@
   <a href="https://soc1ly.lol" target="_blank">
     <img src="https://img.shields.io/badge/BIOGRAPHY-000000?style=for-the-badge&logo=google-chrome&logoColor=white" width="210px">
   </a>
-</p>](https://soc1ly.lol)
+</p>
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/48876993/235451937-a2c906af-f8e4-4f6b-8a14-453f96de3c3d.gif" width="85%">
